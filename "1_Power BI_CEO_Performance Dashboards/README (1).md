@@ -1,7 +1,8 @@
 # eCommerce Fashion Dashboards
 
 ## CEO
-![test](screenshots/"C:\Users\Dell\OneDrive\Pictures\Screenshots\CEO_Dashboard.png")
+![test]![image](https://github.com/Dillipmeher/Project/assets/143451788/69c99b28-9c3f-41d4-b5c6-50cd8f0dc399)
+
 
 ### 6 Thinking Hats
 1. **White Hat (Facts and Information)**:
