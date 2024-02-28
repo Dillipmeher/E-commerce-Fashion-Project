@@ -1,7 +1,7 @@
 # eCommerce Fashion Dashboards
 
 ## CEO
-![test](screenshots/1_CEO.png)
+!"D:\Projects\Power_BI_Projects\1_L1_Power_BI_CXO_Dashboard\1_Power BI_CEO Dashboard.png"
 
 ### 6 Thinking Hats
 1. **White Hat (Facts and Information)**:
