@@ -1,7 +1,7 @@
 # eCommerce Fashion Dashboards
 
 ## CEO
-![test]![image](https://github.com/Dillipmeher/Project/assets/143451788/69c99b28-9c3f-41d4-b5c6-50cd8f0dc399)
+![image](https://github.com/Dillipmeher/Project/assets/143451788/69c99b28-9c3f-41d4-b5c6-50cd8f0dc399)
 
 
 ### 6 Thinking Hats
