@@ -1,5 +1,3 @@
-To present this information effectively in a GitHub README file, you can follow a structured format that clearly outlines the roles, objectives, and key performance indicators (KPIs). Here's how you can organize it:
-
 ### eCommerce Fashion Brand
 
 #### Executive Team
