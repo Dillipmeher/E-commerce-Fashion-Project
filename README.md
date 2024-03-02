@@ -89,3 +89,37 @@ Difference between OKR and KPI
 ### CEO Data
 ![image](https://github.com/Dillipmeher/Project/assets/143451788/319dd3a3-d881-46be-843c-601edbc34cf6)
 
+### COO Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/208386c5-3841-4b04-8835-29acb714afbc)
+
+### CFO Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/88f1237e-741b-41d8-9922-9580440e8881)
+
+### CMO Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/37426e70-da69-4040-b2b7-ac605704de76)
+
+### CTO Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/e06d19cd-afd7-48f6-a5aa-c7f261263ad2)
+
+### CSO Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/e4642281-4cc7-41e0-a94b-60326366bcfd)
+
+
+### CPO Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/b60d8a12-52c9-4441-afd9-be6bcc0a139c)
+
+
+### CCO Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/a802650e-d1d0-426e-a655-4ed55ef28cb1)
+
+
+### CPO-HR Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/ba80b2f8-27f6-44c1-94f1-89a3325e1fa0)
+
+### CSO- Sustainability Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/0421e450-5373-4a8e-80f1-bdcd642a4649)
+
+### CDO Data
+![image](https://github.com/Dillipmeher/Project/assets/143451788/f8dc3d2e-4436-4135-9404-a3dad960c745)
+
+
