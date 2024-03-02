@@ -79,13 +79,23 @@ To present this information effectively in a GitHub README file, you can follow 
     - **Objective:** Develop a predictive analytics model with 90% accuracy, Implement data governance policies for 100% compliance with data protection regulations
     - **KPIs:**
    
-      Difference between OKR and KPI		
-
-![image](https://github.com/Dillipmeher/Project/assets/143451788/d542360e-cc03-4dd1-9fd4-393d7a1aba91)
-
-      - Accuracy of sales forecasts
-      - Data quality score
-      - Compliance rate with data protection laws
-
+      		
 This structured format provides a clear overview of the responsibilities, objectives, and KPIs for each executive role within the company.
 ![image](https://github.com/Dillipmeher/Project/assets/143451788/a6eefc17-bb5e-4ca8-ba17-74d3b1f3d729)
+
+Difference between OKR and KPI
+![image](https://github.com/Dillipmeher/Project/assets/143451788/d542360e-cc03-4dd1-9fd4-393d7a1aba91)
+
+Quarter	Overall Revenue Growth	Market Share	Employee Engagement Score	Customer Satisfaction Score	Revenue	Cost	Profit
+2022-Q1	5%	15%	70%	85%	 105,000 	 70,000 	 35,000 
+2022-Q2	7%	16%	72%	87%	 112,350 	 73,500 	 38,850 
+2022-Q3	6%	17%	74%	89%	 119,091 	 77,000 	 42,091 
+2022-Q4	8%	18%	76%	90%	 128,618 	 80,500 	 48,118 
+2023-Q1	10%	19%	78%	91%	 141,480 	 84,000 	 57,480 
+2023-Q2	9%	20%	80%	92%	 154,213 	 87,500 	 66,713 
+2023-Q3	11%	21%	82%	93%	 171,177 	 91,000 	 80,177 
+2023-Q4	12%	22%	84%	94%	 191,718 	 94,500 	 97,218 
+2024-Q1	13%	23%	86%	95%	 216,641 	 98,000 	 118,641 
+2024-Q2	14%	24%	88%	96%	 246,971 	 101,500 	 145,471 
+![image](https://github.com/Dillipmeher/Project/assets/143451788/319dd3a3-d881-46be-843c-601edbc34cf6)
+
