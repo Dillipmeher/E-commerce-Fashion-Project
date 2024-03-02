@@ -78,6 +78,11 @@ To present this information effectively in a GitHub README file, you can follow 
 11. **Chief Data Officer (CDO)**
     - **Objective:** Develop a predictive analytics model with 90% accuracy, Implement data governance policies for 100% compliance with data protection regulations
     - **KPIs:**
+   
+      Difference between OKR and KPI		
+
+![image](https://github.com/Dillipmeher/Project/assets/143451788/d542360e-cc03-4dd1-9fd4-393d7a1aba91)
+
       - Accuracy of sales forecasts
       - Data quality score
       - Compliance rate with data protection laws
