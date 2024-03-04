@@ -35,7 +35,7 @@
 - Overall, these KPIs and OKRs help us see how well we're doing and what we need to work on to make the company even better.
 
 ---
-### The metrics are needed by the CEO for several important reasons:
+### The metrics are needed by the COO for several important reasons:
 
 1. **Performance Evaluation:** Metrics such as order fulfillment time, cost of goods sold (COGS), and inventory turnover rate allow the COO to assess how well different aspects of operations are performing. This evaluation helps identify areas of improvement and implement strategies to enhance efficiency and productivity.
 
