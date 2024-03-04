@@ -34,6 +34,7 @@
 **Blue Hat (Big Picture & Control):**
 - Overall, these KPIs and OKRs help us keep track of how our business is doing and where we want to go. They guide our decisions and help us stay focused on our goals.
 
+---
 
 ### The metrics are needed by the CEO for several important reasons:
 
@@ -47,6 +48,7 @@
 
 5. **Risk Management:** Monitoring key financial metrics allows the CFO to identify potential risks and challenges early on. For example, tracking cash flow management can help anticipate cash shortages and take proactive measures to mitigate risks, such as securing additional funding or implementing cost-saving measures.
 
+---
 
 ### Getting this information on a regular basis can vary in difficulty depending on several factors:
 
