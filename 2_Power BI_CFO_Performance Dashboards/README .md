@@ -36,7 +36,7 @@
 
 ---
 
-### The metrics are needed by the CEO for several important reasons:
+### The metrics are needed by the CFO for several important reasons:
 
 1. **Monitoring Financial Health:** The CFO needs to keep a close eye on metrics like net profit margin, ROI, and cash flow management to understand how well the company is performing financially. These metrics help them identify areas of strength and weakness and make informed decisions to improve financial performance.
 
