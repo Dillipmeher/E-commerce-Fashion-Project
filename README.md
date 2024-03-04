@@ -85,37 +85,47 @@ Difference between OKR and KPI
 ![image](https://github.com/Dillipmeher/Project/assets/143451788/d542360e-cc03-4dd1-9fd4-393d7a1aba91)
 
 ### CEO Performance Dashboard
-![CEO_Score Card_Power BI](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/1e7b1798-ce05-4689-963e-e5f3ff4f4b00)
+
 ![CPO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/a8a77f98-15f3-4a00-8f5a-aaa78c71cd24)
 
 ### COO Performance Dashboard
+
 ![COO_score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/d1973407-aab2-4844-a169-e9a08d79a630)
 
 ### CFO Performance Dashboard
+
 ![CFO-Score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/6df34e55-b24b-4b7f-a65f-488a2ec7674b)
 
 ### CMO Performance Dashboard
+
 ![CMO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/9fc78024-060d-456c-848f-970ad6668bc6)
 
 ### CTO Performance Dashboard
+
 ![CTO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/861ada4e-331a-4e9c-9881-7e80870c4aee)
 
 ### CSO Performance Dashboard
+
 ![CSO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/3a024f86-b8f7-4e76-b46d-432edb40ed69)
 
 ### CPO Performance Dashboard
+
 ![CPO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/66f0ffd3-bb64-4b91-8926-fc6c639950d4)
 
 ### CCO Performance Dashboard
+
 ![CCO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/5a3be883-b5db-4e1b-aafb-ab4bc3895ad8)
 
 ###  CPO-HR Performance Dashboard
+
 ![CPO-HR Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/923259b1-3339-46a2-a36c-b3d9ab74cb7d)
 
 ### CSO- Sustainability Performance Dashboard
+
 ![CSO-Sustainablility Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/2ce1b2e2-8db7-45bc-b62e-e53a3a7ef79f)
 
 ### CDO Performance Dashboard
+
 ![CDO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/dae138d0-0299-4340-86ce-e319fd350f51)
 
 
