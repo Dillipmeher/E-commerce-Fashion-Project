@@ -36,7 +36,7 @@
 
 ---
 
-### The metrics are needed by the CEO for several important reasons:
+### The metrics are needed by the CMO for several important reasons:
 
 1. **Performance Evaluation:** Metrics such as customer acquisition cost (CAC), return on advertising spend (ROAS), and social media engagement rates allow the CMO to assess the performance of various marketing initiatives. This evaluation helps identify which strategies are driving results and which ones may need adjustment.
 
