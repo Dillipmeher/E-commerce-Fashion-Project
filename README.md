@@ -84,17 +84,20 @@ This structured format provides a clear overview of the responsibilities, object
 Difference between OKR and KPI
 ![image](https://github.com/Dillipmeher/Project/assets/143451788/d542360e-cc03-4dd1-9fd4-393d7a1aba91)
 
-### CEO Performance Dashboard
+# CEO Performance Dashboard
 
-![CPO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/a8a77f98-15f3-4a00-8f5a-aaa78c71cd24)
+![CEO_Score Card_Power BI](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/ae55becc-b21b-47d2-9cf1-057ff061f67b)
+
+
+# CFO Performance Dashboard
+
+![CFO-Score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/6df34e55-b24b-4b7f-a65f-488a2ec7674b)
+
 
 ### COO Performance Dashboard
 
 ![COO_score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/d1973407-aab2-4844-a169-e9a08d79a630)
 
-### CFO Performance Dashboard
-
-![CFO-Score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/6df34e55-b24b-4b7f-a65f-488a2ec7674b)
 
 ### CMO Performance Dashboard
 
