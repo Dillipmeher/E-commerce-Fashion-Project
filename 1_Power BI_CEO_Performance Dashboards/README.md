@@ -23,6 +23,8 @@
 
 6. **Blue Hat (Big Picture and Planning)**:
    - Step back and look at the overall picture. What are our long-term goals? How can we use these numbers to help us achieve them? Let's make a plan to move forward and reach our targets.
+     
+     ---
 
 ### The metrics are needed by the CEO for several important reasons:
 
@@ -33,6 +35,8 @@
 3. **Performance Evaluation**: The metrics serve as key performance indicators (KPIs) that allow the CEO to evaluate the performance of different departments, teams, and individuals within the organization. This helps in identifying areas of strength and areas that need improvement.
 
 4. **Alignment with Company Goals**: The metrics ensure that the entire organization is aligned with the company's overarching goals. By setting KPIs related to revenue growth, market share, employee engagement, and customer satisfaction, the CEO communicates the company's priorities and ensures that everyone is working towards the same objectives.
+
+   ---
 
 ### Getting this information on a regular basis can vary in difficulty depending on several factors:
 
