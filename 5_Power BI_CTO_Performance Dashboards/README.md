@@ -38,7 +38,7 @@
 
 ---
 
-### The metrics are needed by the CEO for several important reasons:
+### The metrics are needed by the CTO for several important reasons:
 
 
 1. **Performance Monitoring:** Metrics such as app download and active user rates, website uptime and speed, and technology stack ROI allow the CTO to monitor the performance of technology systems and initiatives. This monitoring helps identify areas of strength and weakness and prioritize improvements to enhance overall performance.
