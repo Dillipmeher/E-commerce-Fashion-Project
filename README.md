@@ -156,7 +156,9 @@ Difference between OKR and KPI
 
 #SCORE CARD
 
-[[Link to Google Sheet](https://docs.google.com/spreadsheets/d/1JAESs27lEAeNixyaPPUeK0tfocdIJc4Y/edit#gid=73245975)](https://docs.google.com/spreadsheets/d/1JAESs27lEAeNixyaPPUeK0tfocdIJc4Y/edit#gid=73245975)
+[Link to Google Sheet](https://docs.google.com/spreadsheets/d/1JAESs27lEAeNixyaPPUeK0tfocdIJc4Y/edit#gid=73245975)
+
+
 
 
 
