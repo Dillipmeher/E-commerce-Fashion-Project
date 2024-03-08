@@ -154,6 +154,8 @@ Difference between OKR and KPI
 
 ![CSO-Sustainablility Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/2ce1b2e2-8db7-45bc-b62e-e53a3a7ef79f)
 
+#SCORE CARD
+https://docs.google.com/spreadsheets/d/1JAESs27lEAeNixyaPPUeK0tfocdIJc4Y/edit#gid=73245975
 
 
 
